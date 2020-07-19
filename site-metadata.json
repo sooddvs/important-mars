@@ -42,24 +42,17 @@
     "social_links": [
       {
         "type": "action",
-        "label": "Twitter",
-        "url": "https://twitter.com/",
-        "style": "link",
-        "new_window": true
-      },
-      {
-        "type": "action",
-        "label": "GitHub",
-        "url": "https://github.com/",
-        "style": "link",
-        "new_window": true
-      },
-      {
-        "type": "action",
         "label": "LinkedIn",
-        "url": "https://www.linkedin.com/",
+        "url": "https://www.linkedin.com/mwlite/company/medstry",
         "style": "link",
         "new_window": true
+      },
+      {
+        "style": "link",
+        "new_window": false,
+        "type": "action",
+        "label": "Facebook",
+        "url": "https://m.facebook.com/medstry/"
       }
     ],
     "content": "Medstry Biotech Copyright© 2020.All right reserved.",
