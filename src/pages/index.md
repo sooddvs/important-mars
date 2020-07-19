@@ -18,25 +18,7 @@ sections:
     actions: []
   - type: features_section
     title: Our Therapeutic Areas
-    features:
-      - align: left
-        image_position: left
-        type: feature
-        title: Pain and PH
-        content: ""
-        image: /images/stomach-flu.png
-      - align: left
-        image_position: right
-        type: feature
-        title: Gynac
-        content: ""
-        image: /images/stomach-flu.png
-      - align: left
-        image_position: left
-        type: feature
-        title: OTC & OTRX
-        content: ""
-        image: /images/stomach-flu.png
+    features: []
   - type: blog_feed_section
     title: Are you curious?
     show_recent: true
