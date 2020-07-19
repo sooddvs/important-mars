@@ -16,9 +16,26 @@ sections:
     type: hero_section
     image: /images/88_knowledge.svg
     actions: []
-  - type: team_section
-    title: Our Theuraptic Areas
-    team: []
+  - type: cta_section
+    has_background: false
+    background_color: white
+    title: Our Theurapatic stiff
+    actions:
+      - style: secondary
+        new_window: false
+        type: action
+        label: Pain
+        url: /stories
+      - style: secondary
+        new_window: false
+        type: action
+        label: opt
+        url: /stories
+      - style: secondary
+        new_window: false
+        type: action
+        label: gynac
+        url: /stories
   - type: blog_feed_section
     title: Are you curious?
     show_recent: true
