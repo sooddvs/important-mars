@@ -53,7 +53,7 @@ sections:
     actions:
       - type: action
         label: Learn More
-        url: /features
+        url: /about/
         style: secondary
       - style: secondary
         new_window: false
