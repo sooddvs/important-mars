@@ -1,15 +1,14 @@
 ---
 title: Amet Nulla Facilisi Morbi Tempus
-date: '2020-06-02'
+date: 2020-06-02
 author: src/data/team/gordon-norman.yaml
 categories:
   - src/data/categories/tutorials.yaml
 tags:
   - Stackbit
   - Netlify
-image: images/5.png
-excerpt: >-
-  Estne, quaeso, inquam, sitienti in bibendo voluptas? Iam in altera
+image: /images/1.png
+excerpt: Estne, quaeso, inquam, sitienti in bibendo voluptas? Iam in altera
   philosophiae parte. Quem Tiberina descensio festo illo die tanto gaudio
   affecit, quanto.
 template: post
