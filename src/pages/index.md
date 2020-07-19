@@ -17,46 +17,16 @@ sections:
     image: /images/88_knowledge.svg
     actions: []
   - type: features_section
-    title: Features
+    title: Our Therapeutic Areas
     features:
-      - type: feature
-        title: Feature 1
-        content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
-        align: left
-        image: images/feature.svg
-        image_position: right
-        actions:
-          - type: action
-            label: Learn More
-            url: /features
-            style: secondary
-      - type: feature
-        title: Feature 2
-        content: Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut diam
-          quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio euismod
-          lacinia.
-        align: left
-        image: images/feature.svg
+      - align: left
         image_position: left
-        actions:
-          - type: action
-            label: Learn More
-            url: /features
-            style: secondary
-      - type: feature
-        title: Feature 3
-        content: Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus eget
-          nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in ante.
-        align: left
-        image: images/feature.svg
-        image_position: right
-        actions:
-          - type: action
-            label: Learn More
-            url: /features
-            style: secondary
+        type: feature
+        title: Pain and PH
+        content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque et
+          nisi sit amet dolor gravida eleifend sed semper enim. Integer
+          scelerisque accumsan sapien, non accumsan nunc maximus non
+        image: /images/screen-shot-2020-07-19-at-22.20.40.png
   - type: blog_feed_section
     title: What's New
     show_recent: true
