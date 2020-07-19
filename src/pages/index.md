@@ -23,25 +23,43 @@ sections:
         image_position: left
         type: feature
         title: Pain and PH
-        content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque et
-          nisi sit amet dolor gravida eleifend sed semper enim. Integer
-          scelerisque accumsan sapien, non accumsan nunc maximus non
-        image: /images/open-doodles-reading-side.png
+        content: >
+          <a href = "/"><img src =
+          "https://image.flaticon.com/icons/svg/3215/3215750.svg">
+
+          <figcaption>Pain</figcaption>
+
+          </img>
+
+          </a>
+        image: ""
       - align: left
         image_position: right
         type: feature
         title: Gynac
-        content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque et
-          nisi sit amet dolor gravida eleifend sed semper enim. Integer
-          scelerisque accumsan sapien, non accumsan nunc maximus non
+        content: >
+          <a href = "/"><img src =
+          "https://image.flaticon.com/icons/svg/3215/3215750.svg">
+
+          <figcaption>Pain</figcaption>
+
+          </img>
+
+          </a>
         image: /images/open-doodles-reading.png
       - align: left
         image_position: left
         type: feature
         title: OTC & OTRX
-        content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque et
-          nisi sit amet dolor gravida eleifend sed semper enim. Integer
-          scelerisque accumsan sapien, non accumsan nunc maximus non
+        content: >
+          <a href = "/"><img src =
+          "https://image.flaticon.com/icons/svg/3215/3215750.svg">
+
+          <figcaption>Pain</figcaption>
+
+          </img>
+
+          </a>
         image: /images/open-doodles-swinging.png
   - type: blog_feed_section
     title: Are you curious?
