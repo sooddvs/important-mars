@@ -26,7 +26,7 @@ sections:
         content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque et
           nisi sit amet dolor gravida eleifend sed semper enim. Integer
           scelerisque accumsan sapien, non accumsan nunc maximus non
-        image: /images/screen-shot-2020-07-19-at-22.20.40.png
+        image: /images/open-doodles-reading-side.png
       - align: left
         image_position: right
         type: feature
@@ -34,7 +34,7 @@ sections:
         content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque et
           nisi sit amet dolor gravida eleifend sed semper enim. Integer
           scelerisque accumsan sapien, non accumsan nunc maximus non
-        image: /images/screen-shot-2020-07-19-at-22.22.22.png
+        image: /images/open-doodles-reading.png
       - align: left
         image_position: left
         type: feature
@@ -42,7 +42,7 @@ sections:
         content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque et
           nisi sit amet dolor gravida eleifend sed semper enim. Integer
           scelerisque accumsan sapien, non accumsan nunc maximus non
-        image: /images/screen-shot-2020-07-19-at-22.22.06.png
+        image: /images/open-doodles-swinging.png
   - type: blog_feed_section
     title: Are you curious?
     show_recent: true
