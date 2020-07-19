@@ -16,26 +16,33 @@ sections:
     type: hero_section
     image: /images/88_knowledge.svg
     actions: []
-  - type: cta_section
+  - type: hero_section
+    align: left
+    image_position: left
     has_background: true
-    background_color: blue
-    title: Our Theurapatic stiff
+    background:
+      background_color: blue
+      background_image_size: cover
+      background_image_repeat: no-repeat
+      background_image: /images/open-doodles-reading.png
+      background_image_opacity: 50
+    image: ""
     actions:
       - style: secondary
         new_window: false
         type: action
-        label: Pain
-        url: /stories
+        label: first
+        url: /first
       - style: secondary
         new_window: false
         type: action
-        label: opt
-        url: /stories
+        label: Second
+        url: /second/
       - style: secondary
         new_window: false
         type: action
-        label: gynac
-        url: /stories
+        label: Third
+        url: /third/
   - type: blog_feed_section
     title: Are you curious?
     show_recent: true
