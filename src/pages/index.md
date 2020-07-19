@@ -23,44 +23,20 @@ sections:
         image_position: left
         type: feature
         title: Pain and PH
-        content: >
-          <a href = "/"><img src =
-          "https://image.flaticon.com/icons/svg/3215/3215750.svg">
-
-          <figcaption>Pain</figcaption>
-
-          </img>
-
-          </a>
-        image: ""
+        content: ""
+        image: /images/stomach-flu.png
       - align: left
         image_position: right
         type: feature
         title: Gynac
-        content: >
-          <a href = "/"><img src =
-          "https://image.flaticon.com/icons/svg/3215/3215750.svg">
-
-          <figcaption>Pain</figcaption>
-
-          </img>
-
-          </a>
-        image: /images/open-doodles-reading.png
+        content: ""
+        image: /images/stomach-flu.png
       - align: left
         image_position: left
         type: feature
         title: OTC & OTRX
-        content: >
-          <a href = "/"><img src =
-          "https://image.flaticon.com/icons/svg/3215/3215750.svg">
-
-          <figcaption>Pain</figcaption>
-
-          </img>
-
-          </a>
-        image: /images/open-doodles-swinging.png
+        content: ""
+        image: /images/stomach-flu.png
   - type: blog_feed_section
     title: Are you curious?
     show_recent: true
