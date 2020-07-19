@@ -46,7 +46,7 @@ sections:
   - type: blog_feed_section
     title: Are you curious?
     show_recent: true
-    recent_count: 3
+    recent_count: 6
   - type: cta_section
     title: Start your journey with us
     subtitle: ""
