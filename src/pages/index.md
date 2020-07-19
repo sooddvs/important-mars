@@ -17,8 +17,8 @@ sections:
     image: /images/88_knowledge.svg
     actions: []
   - type: cta_section
-    has_background: false
-    background_color: white
+    has_background: true
+    background_color: blue
     title: Our Theurapatic stiff
     actions:
       - style: secondary
