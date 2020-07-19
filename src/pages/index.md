@@ -18,6 +18,9 @@ sections:
     actions: []
   - type: team_section
     title: Our Theuraptic Areas
+    team:
+      - bkabkakana
+      - ijakscn
   - type: blog_feed_section
     title: Are you curious?
     show_recent: true
