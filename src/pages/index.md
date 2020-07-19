@@ -17,7 +17,7 @@ sections:
     image: /images/88_knowledge.svg
     actions: []
   - type: hero_section
-    align: left
+    align: center
     image_position: left
     has_background: true
     background:
