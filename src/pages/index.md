@@ -14,7 +14,7 @@ sections:
       India.
     title: We are Medstry
     type: hero_section
-    image: /images/88_knowledge.svg
+    image: /images/screen-shot-2020-07-19-at-22.22.22.png
     actions: []
   - type: features_section
     title: Our Therapeutic Areas
