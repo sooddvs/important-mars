@@ -7,8 +7,8 @@ sections:
       background_color: white
       background_image: ""
       background_image_opacity: 0
-      background_image_size: auto
-      background_image_repeat: repeat
+      background_image_size: null
+      background_image_repeat: null
     has_background: true
     subtitle: We are a fast growing bootstrapped pharmaceutical company based out of
       India.
@@ -27,19 +27,39 @@ sections:
           nisi sit amet dolor gravida eleifend sed semper enim. Integer
           scelerisque accumsan sapien, non accumsan nunc maximus non
         image: /images/screen-shot-2020-07-19-at-22.20.40.png
+      - align: left
+        image_position: right
+        type: feature
+        title: Gynac
+        content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque et
+          nisi sit amet dolor gravida eleifend sed semper enim. Integer
+          scelerisque accumsan sapien, non accumsan nunc maximus non
+        image: /images/screen-shot-2020-07-19-at-22.22.22.png
+      - align: left
+        image_position: left
+        type: feature
+        title: OTC & OTRX
+        content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque et
+          nisi sit amet dolor gravida eleifend sed semper enim. Integer
+          scelerisque accumsan sapien, non accumsan nunc maximus non
+        image: /images/screen-shot-2020-07-19-at-22.22.06.png
   - type: blog_feed_section
-    title: What's New
+    title: Are you curious?
     show_recent: true
     recent_count: 3
   - type: cta_section
-    title: This Is A CTA
-    subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a
-      metus quis lorem malesuada luctus.
+    title: Start your journey with us
+    subtitle: ""
     actions:
       - type: action
         label: Learn More
         url: /features
         style: primary
+      - style: link
+        new_window: false
+        type: action
+        label: Contact Us
+        url: /contact/
     has_background: true
     background_color: gray
 template: advanced
