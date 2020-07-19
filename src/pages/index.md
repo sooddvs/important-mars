@@ -54,8 +54,8 @@ sections:
       - type: action
         label: Learn More
         url: /features
-        style: primary
-      - style: link
+        style: secondary
+      - style: secondary
         new_window: false
         type: action
         label: Contact Us
