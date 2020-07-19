@@ -14,11 +14,10 @@ sections:
       India.
     title: We are Medstry
     type: hero_section
-    image: /images/screen-shot-2020-07-19-at-22.22.22.png
+    image: /images/88_knowledge.svg
     actions: []
-  - type: features_section
-    title: Our Therapeutic Areas
-    features: []
+  - type: team_section
+    title: Our Theuraptic Areas
   - type: blog_feed_section
     title: Are you curious?
     show_recent: true
