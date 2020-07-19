@@ -43,6 +43,7 @@ sections:
         type: action
         label: Third
         url: /third/
+    title: Our THeroklfm dfkm
   - type: blog_feed_section
     title: Are you curious?
     show_recent: true
