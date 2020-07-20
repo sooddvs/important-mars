@@ -61,5 +61,42 @@ sections:
           our portfolio we offer therapies that provide solutions for all
           subsets of diseases under these categories to our patients - ranging
           from General pain, to Ortho, to Collagen peptide, and Neural pain.
+      - align: left
+        image_position: left
+        type: feature
+        title: Gynac
+        content: A female goes over four stages in her life - Childhood, Adolescence,
+          Child bearing stage, and PMS. At each stage her body has different
+          needs, and we aim to support her by offering therapies that provide
+          solution for ailments at each stage of her life.
+      - align: left
+        image_position: left
+        type: feature
+        title: OTC-OTRX
+        content: This therapeutic area consists of medicines that patients can purchase
+          from pharmacies without prescription. Here, our aim is to provide
+          high-quality medicines produced in our WHO certified manufacturing
+          units, at affordable rates to our patients.
+  - align: left
+    image_position: right
+    background:
+      background_color: white
+      background_image_size: cover
+      background_image_repeat: no-repeat
+    has_background: false
+    subtitle: "We firmly believe that the best way to help patients is to focus on
+      introducing innovative medicines by heavily investing in R&D to discover
+      disease mechanisms and develop novel, targeted therapies that interact
+      with them. Our focus is on the following: Pain, Gynac and General
+      medicine."
+    title: Our Medicines
+    type: hero_section
+    image: /images/336_ecology_flatline.svg
+    actions:
+      - style: secondary
+        new_window: false
+        type: action
+        label: Learn More
+        url: /therapy
 template: advanced
 ---
