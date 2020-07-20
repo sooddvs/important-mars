@@ -43,15 +43,14 @@ sections:
           company based out of India. We cater to healthcare needs in Indian &
           Global Markets by producing UNIQUE and PATENTED medicines through our
           WHO - GMP Certified manufacturing units.
-  - type: features_section
-    features:
-      - align: left
-        image_position: left
-        type: feature
-        image: /images/miles-tone.jpg
-      - align: left
-        image_position: right
-        type: feature
-        image: /images/gordon-norman.jpg
+  - type: hero_section
+    align: center
+    image_position: left
+    has_background: true
+    background:
+      background_color: white
+      background_image_size: cover
+      background_image_repeat: no-repeat
+      background_image: /images/1.png
 template: advanced
 ---
