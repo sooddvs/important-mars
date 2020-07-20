@@ -56,7 +56,7 @@ sections:
   - type: blog_feed_section
     title: ""
     show_recent: true
-    recent_count: 6
+    recent_count: 4
   - type: cta_section
     title: Start your journey with us
     subtitle: ""
