@@ -44,8 +44,17 @@ sections:
         label: Third
         url: /third/
     title: Our THeroklfm dfkm
+  - type: features_section
+    title: ""
+    features:
+      - align: left
+        image_position: left
+        type: feature
+        title: Are you Curious?
+        content: Read our blogs to learn More
+        image: /images/014-1-.svg
   - type: blog_feed_section
-    title: Are you curious?
+    title: ""
     show_recent: true
     recent_count: 6
   - type: cta_section
