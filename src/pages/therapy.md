@@ -103,7 +103,7 @@ sections:
     background_color: white
     title: Start your journey with us
     actions:
-      - style: secondary
+      - style: primary
         new_window: false
         type: action
         label: Learn more about our therapies.
