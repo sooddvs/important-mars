@@ -14,7 +14,7 @@ sections:
       India.
     title: We are Medstry
     type: hero_section
-    image: /images/88_knowledge.svg
+    image: /images/screen-shot-2020-07-20-at-09.42.32.png
     actions: []
   - type: hero_section
     align: center
