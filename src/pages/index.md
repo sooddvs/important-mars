@@ -52,7 +52,7 @@ sections:
         type: feature
         title: Are you Curious?
         content: Read our blogs to learn More
-        image: /images/014-1-.svg
+        image: /images/screen-shot-2020-07-20-at-09.45.22.png
   - type: blog_feed_section
     title: ""
     show_recent: true
