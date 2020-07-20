@@ -16,34 +16,35 @@ sections:
     type: hero_section
     image: /images/screen-shot-2020-07-20-at-09.42.32.png
     actions: []
-  - type: hero_section
-    align: center
+  - align: center
     image_position: left
-    has_background: true
     background:
       background_color: blue
       background_image_size: cover
       background_image_repeat: no-repeat
       background_image: /images/open-doodles-reading.png
       background_image_opacity: 50
+    has_background: true
+    subtitle: With Patient-centric, Science driven medicines.
+    title: Our Therapeutic Areas
+    type: hero_section
     image: ""
     actions:
       - style: secondary
         new_window: false
         type: action
-        label: first
-        url: /first
+        label: Pain & PH
+        url: /therapy/
       - style: secondary
         new_window: false
         type: action
-        label: Second
-        url: /second/
+        label: Gynac
+        url: /therapy/
       - style: secondary
         new_window: false
         type: action
-        label: Third
-        url: /third/
-    title: Our THeroklfm dfkm
+        label: OTC & OTRX
+        url: /therapy/
   - type: features_section
     title: ""
     features:
