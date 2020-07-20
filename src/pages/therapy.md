@@ -98,5 +98,20 @@ sections:
         type: action
         label: Learn More
         url: /therapy
+  - type: cta_section
+    has_background: false
+    background_color: white
+    title: Start your journey with us
+    actions:
+      - style: secondary
+        new_window: false
+        type: action
+        label: Learn more about our therapies.
+        url: /therapy
+      - style: primary
+        new_window: false
+        type: action
+        label: Contact Us
+        url: /contact/
 template: advanced
 ---
