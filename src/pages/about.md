@@ -33,5 +33,25 @@ sections:
         type: action
         label: Leadership
         url: /leadership
+  - type: features_section
+    features:
+      - align: left
+        image_position: left
+        type: feature
+        title: Our Story
+        content: Founded in 2019, we are a fast growing bootstrapped pharmaceutical
+          company based out of India. We cater to healthcare needs in Indian &
+          Global Markets by producing UNIQUE and PATENTED medicines through our
+          WHO - GMP Certified manufacturing units.
+  - type: features_section
+    features:
+      - align: left
+        image_position: left
+        type: feature
+        image: /images/miles-tone.jpg
+      - align: left
+        image_position: right
+        type: feature
+        image: /images/gordon-norman.jpg
 template: advanced
 ---
