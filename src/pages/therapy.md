@@ -44,5 +44,22 @@ sections:
         label: OTC & OTRX
         url: /therapy/
   - type: features_section
+    features:
+      - align: left
+        image_position: left
+        type: feature
+        content: We at Medstry believe in complete disease management. We carefully
+          select and target the therapeutic areas that we believe would make the
+          most impact in the lives of our patients. With each target we strive
+          to build an all round portfolio of medicines that cover all aspects of
+          the disease.
+      - align: left
+        image_position: left
+        type: feature
+        title: Pain & PH
+        content: We divide pain into two broad categories, Sensory & Physical pain. In
+          our portfolio we offer therapies that provide solutions for all
+          subsets of diseases under these categories to our patients - ranging
+          from General pain, to Ortho, to Collagen peptide, and Neural pain.
 template: advanced
 ---
