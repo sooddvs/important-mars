@@ -56,5 +56,11 @@ sections:
 
           <hr>
         image: /images/1.png
+        actions:
+          - style: link
+            new_window: false
+            type: action
+            label: Join Us
+            url: /contact/
 template: advanced
 ---
