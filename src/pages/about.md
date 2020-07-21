@@ -77,5 +77,10 @@ sections:
       and development.   We are responsible to the society, and we aim to be
       good corporate citizens.
     title: Our Values
+  - type: content_section
+    content: |-
+      <center>
+      Authenticity | Responsibility | Integrity
+      </center>
 template: advanced
 ---
