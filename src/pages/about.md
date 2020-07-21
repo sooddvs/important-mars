@@ -62,16 +62,20 @@ sections:
             type: action
             label: Join Us
             url: /contact/
-  - type: content_section
-    content: >-
-      We will ethically market pharmaceutical products to prevent, diagnose,
+  - type: hero_section
+    align: left
+    image_position: left
+    has_background: false
+    background:
+      background_color: white
+      background_image_size: cover
+      background_image_repeat: no-repeat
+    subtitle: We will ethically market pharmaceutical products to prevent, diagnose,
       alleviate and cure diseases. We strive to provide total customer
       satisfaction, achieve leadership in chosen markets, products segments &
       services - through excellence in technology based on world-class research
-      and development. 
-
-
-      We are responsible to the society, and we aim to be good corporate citizens.
+      and development.   We are responsible to the society, and we aim to be
+      good corporate citizens.
     title: Our Values
 template: advanced
 ---
