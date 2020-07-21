@@ -52,9 +52,6 @@ sections:
 
 
           We specialize in complete disease management, and making a meaningful difference to treatment outcomes by partnering with HCPs at early stage of Patient Journey.
-
-
-          <hr>
         image: /images/1.png
         actions:
           - style: link
@@ -80,7 +77,8 @@ sections:
   - type: content_section
     content: |-
       <center>
-      Authenticity | Responsibility | Integrity
+      Authenticity  |  Responsibility  |  Integrity
       </center>
+      <hr>
 template: advanced
 ---
