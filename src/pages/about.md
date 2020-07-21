@@ -51,7 +51,8 @@ sections:
       background_color: white
       background_image_size: auto
       background_image_repeat: no-repeat
-      background_image: /images/1.png
-    title: Our Values
+      background_image: ""
+    title: ""
+    image: /images/1.png
 template: advanced
 ---
