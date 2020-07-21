@@ -43,16 +43,18 @@ sections:
           company based out of India. We cater to healthcare needs in Indian &
           Global Markets by producing UNIQUE and PATENTED medicines through our
           WHO - GMP Certified manufacturing units.
-  - type: hero_section
-    align: center
-    image_position: left
-    has_background: true
-    background:
-      background_color: white
-      background_image_size: auto
-      background_image_repeat: no-repeat
-      background_image: ""
-    title: ""
-    image: /images/1.png
+      - align: left
+        image_position: left
+        type: feature
+        content: >-
+          Our leadership has over three decades of pharma & healthcare
+          experience from MNCs & major Indian pharma companies.
+
+
+          <br>
+
+
+          We specialize in complete disease management, and making a meaningful difference to treatment outcomes by partnering with HCPs at early stage of Patient Journey.
+        image: /images/1.png
 template: advanced
 ---
