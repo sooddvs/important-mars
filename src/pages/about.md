@@ -89,5 +89,25 @@ sections:
       background_image_size: cover
       background_image_repeat: no-repeat
       background_image: /images/1.png
+  - type: features_section
+    features:
+      - align: left
+        image_position: left
+        type: feature
+        content: Inder is a Healthcare and Pharma veteran with three decades of
+          experience working in top global MNCs, and Indian companies. He is a
+          Certified Trainer of SHL / Gallup Global. He is a visionary with a
+          mission to enable a meaningful difference to healthcare ecosystem both
+          for Health Care Professionals (HCPs) and the Medstry Family. He
+          believes in a vibrant work culture, which holds its roots in
+          encouraging entrepreneurial thinking aka “Mantrapreneurier-ship”.
+        image: /images/image-1.png
+        actions:
+          - style: secondary
+            new_window: true
+            type: action
+            url: https://www.linkedin.com/in/inderjeet-sood-07b08ab?originalSubdomain=in
+            label: Connect with me on Linkedin
+    title: Leadership
 template: advanced
 ---
