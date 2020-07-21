@@ -51,10 +51,10 @@ sections:
           experience from MNCs & major Indian pharma companies.
 
 
-          <br>
-
-
           We specialize in complete disease management, and making a meaningful difference to treatment outcomes by partnering with HCPs at early stage of Patient Journey.
+
+
+          <hr>
         image: /images/1.png
 template: advanced
 ---
