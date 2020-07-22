@@ -1,10 +1,6 @@
 ---
 title: stories
 sections:
-  - type: blog_feed_section
-    show_recent: true
-    title: Stories
-    recent_count: 10
   - type: hero_section
     align: left
     image_position: right
@@ -17,5 +13,9 @@ sections:
     subtitle: Read our opinions on the pharma industry, health, and how to run a
       young start-up in this blog.
     image: /images/447_reading_a_book_flatline.svg
+  - type: blog_feed_section
+    show_recent: true
+    title: ""
+    recent_count: 10
 template: advanced
 ---
