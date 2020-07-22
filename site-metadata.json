@@ -68,24 +68,23 @@
         "type": "action",
         "label": "Facebook",
         "url": "https://m.facebook.com/medstry/"
-      }
-    ],
-    "content": "Medstry Biotech Copyright© 2020.All right reserved.",
-    "links": [
+      },
       {
-        "style": "primary",
-        "new_window": false,
+        "style": "secondary",
+        "new_window": true,
         "type": "action",
         "label": "+91-7021624830",
         "url": "https://wa.link/r37puy"
       },
       {
-        "style": "link",
-        "new_window": false,
+        "style": "secondary",
+        "new_window": true,
         "type": "action",
         "label": "contact@medstry.in",
-        "url": "/"
+        "url": "contact@medstry.in"
       }
-    ]
+    ],
+    "content": "Medstry Biotech Copyright© 2020. All right reserved.",
+    "links": []
   }
 }
