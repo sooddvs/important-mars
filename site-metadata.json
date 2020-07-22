@@ -71,6 +71,21 @@
       }
     ],
     "content": "Medstry Biotech Copyright© 2020.All right reserved.",
-    "links": []
+    "links": [
+      {
+        "style": "primary",
+        "new_window": false,
+        "type": "action",
+        "label": "+91-7021624830",
+        "url": "https://wa.link/r37puy"
+      },
+      {
+        "style": "link",
+        "new_window": false,
+        "type": "action",
+        "label": "contact@medstry.in",
+        "url": "/"
+      }
+    ]
   }
 }
