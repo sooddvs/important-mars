@@ -14,5 +14,7 @@ sections:
       life-saving medicines.
     image: /images/screen-shot-2020-07-23-at-21.49.34.png
   - type: team_section
+    team:
+      - med1
 template: advanced
 ---
