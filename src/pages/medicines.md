@@ -16,5 +16,6 @@ sections:
   - type: team_section
     team:
       - med1
+    title: Pain & PH
 template: advanced
 ---
