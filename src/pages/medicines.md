@@ -13,5 +13,6 @@ sections:
     subtitle: Our mission is to push the boundaries of science to deliver
       life-saving medicines.
     image: /images/screen-shot-2020-07-23-at-21.49.34.png
+  - type: team_section
 template: advanced
 ---
