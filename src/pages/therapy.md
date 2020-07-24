@@ -97,7 +97,7 @@ sections:
         new_window: false
         type: action
         label: Learn More
-        url: /hpc
+        url: /hcp
   - type: cta_section
     has_background: false
     background_color: white
