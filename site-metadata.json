@@ -12,6 +12,34 @@
         "type": "action",
         "label": "Home",
         "url": "/"
+      },
+      {
+        "style": "link",
+        "new_window": false,
+        "type": "action",
+        "label": "About Us",
+        "url": "/about/"
+      },
+      {
+        "style": "link",
+        "new_window": false,
+        "type": "action",
+        "label": "Stories",
+        "url": "/stories"
+      },
+      {
+        "style": "link",
+        "new_window": false,
+        "type": "action",
+        "label": "Therapies",
+        "url": "/therapy"
+      },
+      {
+        "style": "link",
+        "new_window": false,
+        "type": "action",
+        "label": "Contact Us",
+        "url": "/contact"
       }
     ],
     "logo": "/images/frame-1.png"
@@ -26,41 +54,6 @@
         "type": "action",
         "label": "C2-2003, Runwal Garden, Tulip Ats, Thane West Maharashtra - 400608",
         "url": "https://goo.gl/maps/ypW4xjrxUMQFNZp89"
-      },
-      {
-        "style": "secondary",
-        "new_window": false,
-        "type": "action",
-        "label": "Home",
-        "url": "/"
-      },
-      {
-        "style": "secondary",
-        "new_window": false,
-        "type": "action",
-        "label": "About Us",
-        "url": "/about/"
-      },
-      {
-        "style": "secondary",
-        "new_window": false,
-        "type": "action",
-        "label": "Stories",
-        "url": "/stories/"
-      },
-      {
-        "style": "secondary",
-        "new_window": false,
-        "type": "action",
-        "label": "Therapies",
-        "url": "/therapy/"
-      },
-      {
-        "style": "secondary",
-        "new_window": false,
-        "type": "action",
-        "label": "Contact Us",
-        "url": "/contact/"
       }
     ],
     "has_social": true,
