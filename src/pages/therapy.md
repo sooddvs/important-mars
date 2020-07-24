@@ -97,7 +97,7 @@ sections:
         new_window: false
         type: action
         label: Learn More
-        url: /therapy
+        url: /hpc
   - type: cta_section
     has_background: false
     background_color: white
@@ -106,7 +106,7 @@ sections:
       - style: primary
         new_window: false
         type: action
-        label: Learn more about our therapies.
+        label: Learn more about our therapies
         url: /therapy
       - style: primary
         new_window: false
