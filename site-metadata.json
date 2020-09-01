@@ -73,14 +73,14 @@
         "url": "https://m.facebook.com/medstry/"
       },
       {
-        "style": "secondary",
+        "style": "link",
         "new_window": true,
         "type": "action",
         "label": "+91-7021624830",
         "url": "https://wa.link/r37puy"
       },
       {
-        "style": "secondary",
+        "style": "link",
         "new_window": true,
         "type": "action",
         "label": "contact@medstry.in",
