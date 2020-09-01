@@ -15,8 +15,13 @@ sections:
     title: We are Medstry
     type: hero_section
     image: /images/screen-shot-2020-07-20-at-09.42.32.png
-    actions: []
-  - align: center
+    actions:
+      - style: link
+        new_window: false
+        type: action
+        label: Learn More
+        url: /about/
+  - align: left
     image_position: left
     background:
       background_color: blue
@@ -38,7 +43,7 @@ sections:
       - style: secondary
         new_window: false
         type: action
-        label: Gynac
+        label: Gynaec
         url: /therapy/
       - style: secondary
         new_window: false
@@ -51,8 +56,8 @@ sections:
       - align: left
         image_position: left
         type: feature
-        title: Are you Curious?
-        content: Read our blogs to learn More
+        title: Are you curious?
+        content: "### Read our blogs to learn more"
         image: /images/screen-shot-2020-07-20-at-09.45.22.png
   - type: blog_feed_section
     title: ""
