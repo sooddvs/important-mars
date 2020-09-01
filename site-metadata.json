@@ -62,11 +62,11 @@
         "type": "action",
         "label": "LinkedIn",
         "url": "https://www.linkedin.com/mwlite/company/medstry",
-        "style": "link",
+        "style": "primary",
         "new_window": true
       },
       {
-        "style": "link",
+        "style": "primary",
         "new_window": false,
         "type": "action",
         "label": "Facebook",
@@ -87,7 +87,7 @@
         "url": "contact@medstry.in"
       }
     ],
-    "content": "Medstry Biotech Copyright© 2020. All right reserved.",
+    "content": "Medstry Biotech Private Limited Copyright© 2020. All right reserved.",
     "links": []
   }
 }
