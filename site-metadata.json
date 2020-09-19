@@ -63,7 +63,7 @@
         "label": "LinkedIn",
         "url": "https://www.linkedin.com/mwlite/company/medstry",
         "style": "primary",
-        "new_window": true
+        "new_window": false
       },
       {
         "style": "primary",
@@ -74,14 +74,14 @@
       },
       {
         "style": "link",
-        "new_window": true,
+        "new_window": false,
         "type": "action",
         "label": "+91-7021624830",
         "url": "https://wa.link/r37puy"
       },
       {
         "style": "link",
-        "new_window": true,
+        "new_window": false,
         "type": "action",
         "label": "contact@medstry.in",
         "url": "contact@medstry.in"
